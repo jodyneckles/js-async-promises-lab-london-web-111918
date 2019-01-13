@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/js-async-promises-lab#readme",
   "devDependencies": {
-    "learn-browser": "^0.1.13"
+    "learn-browser": "^0.1.17"
   }
 }
